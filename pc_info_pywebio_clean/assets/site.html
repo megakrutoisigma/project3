@@ -1,0 +1,53 @@
+<style>
+:root{color-scheme:dark;--bg:#080e1c;--panel:#111b30;--panel2:#15223a;--border:#293954;--text:#e8efff;--muted:#98abc9;--accent:#6eacff;--green:#42d6ac;--yellow:#f9bc68;--red:#ff6c81}
+body,.pywebio{background:var(--bg)!important;color:var(--text)!important;font-family:Inter,'Segoe UI',Arial,sans-serif!important}
+#output-container{max-width:1300px!important;padding:12px 18px 70px!important}
+#output{color:var(--text)!important} .webio-markdown{color:var(--text)!important}
+.dashboard-brand{background:radial-gradient(circle at 85% 20%,#284178 0%,transparent 40%),linear-gradient(125deg,#131f3b,#0d172a);border:1px solid #294064;border-radius:24px;padding:26px 30px;margin:12px 0 20px;position:relative;overflow:hidden}
+.brand-top{font-size:12px;color:#80c4ff;font-weight:800;letter-spacing:2.5px}
+.brand-title{font-size:35px;font-weight:900;letter-spacing:-1.5px;color:#fff;margin:7px 0 5px}
+.brand-description{font-size:14px;color:#aec2e1;margin:0}
+.brand-sticker{position:absolute;right:30px;top:36px;background:#203b5e;color:#80d6ff;border:1px solid #45628e;border-radius:99px;padding:8px 14px;font-size:13px;font-weight:700}
+.nav-label{margin:18px 0 10px;font-size:12px;text-transform:uppercase;letter-spacing:1.8px;color:#8da5c7;font-weight:800}
+.btn{border-radius:11px!important;font-weight:600!important;margin:2px 3px 4px 0!important}
+.btn-outline-secondary{border-color:#3b5274!important;color:#c7daf6!important}
+.btn-outline-secondary:hover{background:#1d3352!important}
+.btn-primary{background:#3b70d4!important;border-color:#3b70d4!important}
+.section-title{color:white;font-size:24px;font-weight:800;letter-spacing:-.5px;margin:24px 0 4px}
+.section-sub{color:#97abc8;font-size:13px;margin-bottom:17px}
+.metric-grid{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:14px;margin:15px 0 20px}
+.metric{background:linear-gradient(155deg,#16243e,#101a2c);border:1px solid var(--border);border-radius:17px;padding:20px;min-height:132px}
+.metric .eyebrow{text-transform:uppercase;letter-spacing:1.6px;color:#a2b8d6;font-weight:800;font-size:11px}
+.metric .number{font-size:34px;color:white;font-weight:800;margin:9px 0 6px;letter-spacing:-1.1px}
+.metric .hint{font-size:12px;color:#91a5c3;margin-top:9px}
+.progressline{height:7px;background:#2d3a51;border-radius:99px;overflow:hidden}
+.progressfill{height:100%;border-radius:99px;background:linear-gradient(90deg,#45bcea,#7ea5ff)}
+.progressfill.high{background:linear-gradient(90deg,#f6b869,#f8747b)}
+.two-grid{display:grid;grid-template-columns:1fr 1fr;gap:16px;margin:16px 0}
+.panel{background:var(--panel);border:1px solid var(--border);border-radius:18px;padding:19px;margin-bottom:16px}
+.panel h3{font-size:16px;font-weight:800;color:#e8efff;margin:0 0 14px}
+.panel p{color:#9db1ce}
+.data-table{width:100%;border-collapse:collapse;font-size:13px}
+.data-table td,.data-table th{border-bottom:1px solid #2a3750;padding:12px 9px;text-align:left;vertical-align:top;overflow-wrap:anywhere}
+.data-table th{color:#9aadd0;font-size:12px;font-weight:650}
+.data-table td{color:#e5edff}
+.data-table tr:last-child td{border-bottom:0}
+.state{padding:11px 13px;margin:9px 0;border-radius:11px;border:1px solid #2a3c5a;color:#cfdaf1;background:#16233b}
+.state-success{border-color:#256b5b;background:#0e302b;color:#94efcf}
+.state-warning{border-color:#705533;background:#382819;color:#ffe1a5}
+.state-danger{border-color:#83404a;background:#3c202b;color:#ffb9c2}
+.state-info{border-color:#355d89;background:#142840;color:#acd1ff}
+.svg-chart{width:100%;height:182px;display:block}
+.legend{font-size:12px;color:#a0b4d4;margin-top:9px}
+.tag{background:#203650;color:#8dd8ff;border:1px solid #355477;padding:3px 8px;border-radius:9px;font-size:11px;font-weight:700}
+.codebox{font-family:Consolas,monospace;background:#080f1e;border:1px solid #29405f;padding:15px;border-radius:12px;overflow:auto;white-space:pre-wrap;word-break:break-word;color:#d8e5ff;font-size:12px;max-height:480px}
+.info-foot{padding:18px;color:#8da1bd;border-top:1px solid #24314a;font-size:12px;margin-top:20px}
+@media(max-width:1000px){.metric-grid{grid-template-columns:repeat(2,minmax(0,1fr))}.two-grid{grid-template-columns:1fr}}
+@media(max-width:620px){#output-container{padding:9px 12px 50px!important}.metric-grid{grid-template-columns:1fr 1fr;gap:8px}.metric{padding:13px;min-height:110px}.metric .number{font-size:25px}.brand-sticker{display:none}.dashboard-brand{padding:19px}.brand-title{font-size:27px}.section-title{font-size:20px}}
+</style>
+<div class="dashboard-brand">
+  <div class="brand-top">PYTHON × PYWEBIO</div>
+  <div class="brand-title">Информация о ПК</div>
+  <p class="brand-description">Мониторинг системы, диагностика, сеть и отчёты • персональная веб-панель</p>
+  <div class="brand-sticker">● LIVE MONITOR</div>
+</div>
