@@ -1,0 +1,77 @@
+2026-11-02 16:18:45 | INFO    | MainThread | База SQLite инициализирована: C:\Users\JEZYK\AppData\Local\Temp\tmpxbf6g1s0\test.db
+2026-11-02 16:18:45 | WARNING | MainThread | Пользователь очистил историю мониторинга
+2026-11-02 16:18:52 | INFO    | MainThread | База SQLite инициализирована: C:\Users\JEZYK\Desktop\pc_info_pywebio_clean\data\history.sqlite3
+2026-11-02 16:18:52 | INFO    | MainThread | Сайт запускается на http://127.0.0.1:8080
+2026-11-02 16:18:53 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:19:05 | INFO    | callback-S2nbZAy8f3 | Открыт раздел сайта: system
+2026-11-02 16:19:06 | INFO    | callback-S2nbZAy8f3 | Открыт раздел сайта: dashboard
+2026-11-02 16:19:07 | INFO    | callback-S2nbZAy8f3 | Открыт раздел сайта: history
+2026-11-02 16:19:08 | INFO    | callback-S2nbZAy8f3 | Открыт раздел сайта: logs
+2026-11-02 16:19:09 | INFO    | MainThread | Веб-сессия закрыта
+2026-11-02 16:19:18 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:19:26 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: system
+2026-11-02 16:19:27 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: cpu
+2026-11-02 16:19:27 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: memory
+2026-11-02 16:19:28 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: disks
+2026-11-02 16:19:28 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: network
+2026-11-02 16:19:28 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: gpu
+2026-11-02 16:19:28 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: processes
+2026-11-02 16:19:29 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: startup
+2026-11-02 16:19:29 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: folder
+2026-11-02 16:19:29 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: network_test
+2026-11-02 16:19:29 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: benchmark
+2026-11-02 16:19:30 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: diagnostics
+2026-11-02 16:19:30 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: history
+2026-11-02 16:19:30 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: reports
+2026-11-02 16:19:31 | INFO    | callback-O5D6Gm0YCz | Пользователь открыл экспорт отчётов
+2026-11-02 16:19:31 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: logs
+2026-11-02 16:19:36 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: processes
+2026-11-02 16:20:02 | INFO    | MainThread | Успешная авторизация в веб-панели
+2026-11-02 16:20:02 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:20:02 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:20:02 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:20:02 | INFO    | MainThread | База SQLite инициализирована: C:\Users\JEZYK\AppData\Local\Temp\tmpy67g74fr\test.db
+2026-11-02 16:20:02 | WARNING | MainThread | Пользователь очистил историю мониторинга
+2026-11-02 16:20:18 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: processes
+2026-11-02 16:20:18 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: benchmark
+2026-11-02 16:20:18 | INFO    | Thread-10 (click_callback) | CPU тест: 60000 циклов, 0.033 с
+2026-11-02 16:20:35 | INFO    | callback-O5D6Gm0YCz | Открыт раздел сайта: dashboard
+2026-11-02 16:20:44 | INFO    | MainThread | Веб-сессия закрыта
+2026-11-02 16:21:41 | INFO    | MainThread | Успешная авторизация в веб-панели
+2026-11-02 16:21:41 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:21:41 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:21:41 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:21:46 | INFO    | MainThread | Сайт запускается на http://127.0.0.1:8080
+2026-11-02 16:21:46 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:21:46 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:21:53 | INFO    | MainThread | Веб-сессия закрыта
+2026-11-02 16:22:12 | INFO    | MainThread | Сайт запускается на http://127.0.0.1:8080
+2026-11-02 16:22:47 | INFO    | MainThread | Сайт запускается на http://127.0.0.1:8080
+2026-11-02 16:22:47 | INFO    | MainThread | Успешная авторизация в веб-панели
+2026-11-02 16:22:47 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:22:47 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:22:47 | WARNING | MainThread | Неверный пароль при входе в веб-панель
+2026-11-02 16:23:03 | INFO    | MainThread | Сайт запускается на http://127.0.0.1:8080
+2026-11-02 16:23:03 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:23:08 | INFO    | MainThread | Веб-сессия закрыта
+2026-11-02 16:23:16 | INFO    | main_task | Открыт раздел сайта: dashboard
+2026-11-02 16:23:23 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: benchmark
+2026-11-02 16:23:26 | INFO    | Thread-2 (click_callback) | CPU тест: 60000 циклов, 0.028 с
+2026-11-02 16:23:30 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: benchmark
+2026-11-02 16:23:30 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: diagnostics
+2026-11-02 16:23:32 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: dashboard
+2026-11-02 16:24:50 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: disks
+2026-11-02 16:24:52 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: system
+2026-11-02 16:24:53 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: cpu
+2026-11-02 16:24:54 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: history
+2026-11-02 16:24:55 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: benchmark
+2026-11-02 16:24:57 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: network_test
+2026-11-02 16:25:03 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: dashboard
+2026-11-02 16:25:05 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: system
+2026-11-02 16:25:10 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: folder
+2026-11-02 16:25:12 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: startup
+2026-11-02 16:25:14 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: dashboard
+2026-11-02 16:25:59 | INFO    | callback-DYGetb8psf | Открыт раздел сайта: history
+2026-11-02 16:26:07 | INFO    | Thread-5 (click_callback) | Диагностика сети: example.com, TCP 0.4 мс
+2026-11-02 16:26:10 | INFO    | MainThread | Веб-сессия закрыта
+2026-11-02 16:27:26 | INFO    | MainThread | Сервер остановлен пользователем
